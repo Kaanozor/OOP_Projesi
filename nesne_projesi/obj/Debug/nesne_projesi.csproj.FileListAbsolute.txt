@@ -1,0 +1,57 @@
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.exe.config
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.exe
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.pdb
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.AssemblyReference.cache
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.kayitEkrani.resources
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.Properties.Resources.resources
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.GenerateResource.cache
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.CoreCompileInputs.cache
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.exe
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.pdb
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.girisEkrani.resources
+C:\Users\asusk\Desktop\Nesne Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.musteriArayuzu.resources
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\bin\Debug\kullaniciVerileri.mdb
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.exe.config
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.exe
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.pdb
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.AssemblyReference.cache
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.kayitEkrani.resources
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.musteriArayuzu.resources
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.Properties.Resources.resources
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.GenerateResource.cache
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.CoreCompileInputs.cache
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.exe
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.pdb
+C:\Users\asusk\Desktop\Nesne_Projesi\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.Form1.resources
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\bin\Debug\kullaniciVerileri.mdb
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.exe.config
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.exe
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\bin\Debug\nesne_projesi.pdb
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.AssemblyReference.cache
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.Form1.resources
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.kayitEkrani.resources
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.musteriArayuzu.resources
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.Properties.Resources.resources
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.GenerateResource.cache
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.csproj.CoreCompileInputs.cache
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.exe
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.pdb
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.AdminEkrani.resources
+C:\Users\asusk\Desktop\nesne_projesi\nesne_projesi\obj\Debug\nesne_projesi.Sepet.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\bin\Debug\kullaniciVerileri.mdb
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\bin\Debug\nesne_projesi.exe.config
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\bin\Debug\nesne_projesi.exe
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\bin\Debug\nesne_projesi.pdb
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.csproj.AssemblyReference.cache
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.AdminEkrani.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.Form1.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.kayitEkrani.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.musteriArayuzu.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.Properties.Resources.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.Sepet.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.csproj.GenerateResource.cache
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.csproj.CoreCompileInputs.cache
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.exe
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.pdb
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.Payment.resources
+C:\Users\win10\OneDrive\Desktop\armut\nesne_projesi\obj\Debug\nesne_projesi.Credit.resources
